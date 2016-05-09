@@ -5,6 +5,9 @@ import collections
 
 DEBUG = False
 
+'''
+ Special thanks to Yuheng Zhan for his help.
+'''
 def conn_id_to_str(cid):
   '''
   cid = (srcip, sport, dstip, dport)
